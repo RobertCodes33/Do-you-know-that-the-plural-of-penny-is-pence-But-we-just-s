@@ -40,11 +40,11 @@ int main()
   Pennies %= Nickles_Value;
 
 //Output what would be given to Joe after he trades in his Pennies.
-  cout << "you will receive: \n" << Dollars << " dollars " << endl;
-  cout << Quarters << " quarters " << endl;
-  cout << Dimes << " Dimes " << endl;
-  cout << Nickles << " Nickles " << endl;
-  cout << Pennies << " pennies " << endl;
+  cout << "\nyou will receive: \n" << "\n" << Dollars << " dollars " << endl;
+  cout << "\n" << Quarters << " quarters " << endl;
+  cout << "\n" << Dimes << " Dimes " << endl;
+  cout << "\n" << Nickles << " Nickles " << endl;
+  cout << "\n" << Pennies << " pennies " << endl;
 
   return 0;
 }
