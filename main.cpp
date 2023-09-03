@@ -5,7 +5,6 @@ This program will convert the number of pennies into the equivilant Dollars, Qua
 */
 
 #include <iostream>
-#include <cmath>
 using namespace std;
 
 int main()  

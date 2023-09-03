@@ -5,18 +5,17 @@ This program will convert the number of pennies into the equivilant Dollars, Qua
 */
 
 #include <iostream>
-#include <cmath>
 using namespace std;
 
 int main()  
 {
 //Variables
-  
   int Dollars;
   int Quarters;
   int Dimes;
   int Nickles;
   int Pennies;
+  
   int Dollars_Value = 100;
   int Quarters_Value = 25;
   int Dimes_Value = 10;
